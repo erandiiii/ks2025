@@ -1,3 +1,3 @@
 //multiple variables export
-export let mosha = 26;
+export let mosha = 28;
 export let profesioni = "web" +"developer";
